@@ -1,0 +1,26 @@
+.background_style{
+    background: bisque;
+}
+
+.calculator_form {
+    width: 400px;
+    height: 600px;
+    background: #151515;
+    /*margin: auto;*/
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    border-radius: 30px;
+}
+
+.screen {
+    width: 350px;
+    height: 150px;
+    background: #151515;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    border-radius: 40px;
+    border: 3px solid dimgray;
+    /*margin: auto;*/
+}
